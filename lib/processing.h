@@ -1,0 +1,17 @@
+#pragma once
+
+#include "adapters/aggregate_by_key.h" 
+#include "adapters/as_data_flow.h"
+#include "adapters/as_vector.h"
+#include "adapters/dir.h"
+#include "adapters/drop_nullopt.h"
+#include "adapters/filter.h"
+#include "adapters/join.h"
+#include "adapters/open_files.h"
+#include "adapters/out.h"
+#include "adapters/split_expected.h"
+#include "adapters/split.h"
+#include "adapters/transform.h"
+#include "adapters/write.h"
+#include "adapters/custom/skip.h"
+#include "adapters/custom/take.h"

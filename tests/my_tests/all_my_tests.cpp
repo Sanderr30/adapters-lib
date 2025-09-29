@@ -1,0 +1,15 @@
+#include <processing.h>
+
+#include "my_dir_tests.cpp"
+#include "my_open_files_tests.cpp"
+#include "my_out_tests.cpp"
+#include "my_transform_tests.cpp"
+#include "my_split_tests.cpp"
+#include "my_as_vector_tests.cpp"
+#include "my_drop_nullopt_tests.cpp"
+#include "my_write_tests.cpp"
+#include "my_pipe_line_tests.cpp"
+#include "my_split_expected_tests.cpp"
+#include "my_join_tests.cpp"
+#include "my_skip_tests.cpp"
+#include "my_take_tests.cpp"
